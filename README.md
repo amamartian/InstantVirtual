@@ -3,7 +3,7 @@
 This is a python script that generates fixtures for football matches and simulates match results.
 
 ## Version
-There are 2 verions 
+There are 2 versions 
 
 ## Version 1 Features
 
