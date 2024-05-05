@@ -1,14 +1,28 @@
-# Football Fixture Generator and Result Simulator
+# Football Fixture and Result Simulator
 
-This Python script generates round-robin fixtures for a football season and simulates match results based on assigned goal probabilities to each team.
+This is a python script that generates fixtures for football matches and simulates match results.
 
-## Features
+## Version
+There are 2 verions 
+
+## Version 1 Features
+
+- Generates 10 random fixtures from 20 teams to represent a matchweek.
+- Assigns goal probabilities to each team based on their position in a predetermined list.
+- Assigns a predetermined advantage to all home teams in a matchweek.
+- Simulates match results by generating random scores up to 6 goals for each team indepemdently.
+- Scores are generated based on each team goal probability and home advantage.
+- Ensures the total goals in a fixture do not exceed 6 and proper error handling for score generation that exceed 6 goals.
+  
+## Version 2 Features
 
 - Generates fixtures for a 38 matchweek season using a round-robin algorithm.
-- Assigns goal probabilities to each team based on their position in the list.
-- Simulates match results by generating random scores for each team using their goal probabilities.
+- Assigns goal probabilities to each team based on their position in a predetermined list.
+- Assigns a predetermined advantage to all home teams in a matchweek.
+- Simulates match results by generating random scores up to 6 goals for each team indepemdently.
+- Scores are generated based on each team goal probability and home advantage.
 - Ensures the total goals in a fixture do not exceed 6 and proper error handling for score generation that exceed 6 goals.
-- Team list and goal probabilities for each team can be adjusted as desired  
+- Team list, home advantage and goal probabilities for each team can be randomly adjusted for each matchweek as desired.
 
 ## Usage
 
