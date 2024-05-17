@@ -27,7 +27,7 @@ There are 2 versions
 
 ## Usage
 
-The content of this project, including but not limited to source code, documentation, links, and any associated files, is the exclusive property of Adebanjo Matini. No part of this project may be reproduced, distributed, or transmitted in any form without the prior written permission of the author. For permission requests, contact matiniadebanjo@gmail.com.
+The content of this project, including but not limited to source code, documentation, links, and any associated files, is the exclusive property of Adebanjo Matini. No part of this project may be reproduced, distributed, or transmitted in any form without the prior written permission of the author. For permission requests, inquiries, contact matiniadebanjo@gmail.com.
 
 ## Requirements
 
